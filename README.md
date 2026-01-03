@@ -48,3 +48,88 @@ Projekt prezentuje podstawowe informacje i wyniki analiz danych przestrzennych d
 ![Warsaw - boundaries_cycleways_vistula](images/Warsaw-boundaries_cycleways_vistula.png)
 
 ![Warsaw - boundaries_green_areas_vistula](images/Warsaw-boundaries_green_areas_vistula.png)
+
+
+## Dzielnice Warszawy
+
+<table border="1">
+  <tr>
+    <th>Dzielnica</th>
+    <th>Powierzchnia [km²]</th>
+  </tr>
+  <tr>
+    <td>Wawer</td>
+    <td>79,7</td>
+  </tr>
+  <tr>
+    <td>Białołęka</td>
+    <td>73,0</td>
+  </tr>
+  <tr>
+    <td>Ursynów</td>
+    <td>43,8</td>
+  </tr>
+  <tr>
+    <td>Wilanów</td>
+    <td>36,7</td>
+  </tr>
+  <tr>
+    <td>Mokotów</td>
+    <td>35,4</td>
+  </tr>
+  <tr>
+    <td>Bielany</td>
+    <td>32,3</td>
+  </tr>
+  <tr>
+    <td>Włochy</td>
+    <td>28,6</td>
+  </tr>
+  <tr>
+    <td>Bemowo</td>
+    <td>25,0</td>
+  </tr>
+  <tr>
+    <td>Targówek</td>
+    <td>24,3</td>
+  </tr>
+  <tr>
+    <td>Wesoła</td>
+    <td>22,9</td>
+  </tr>
+  <tr>
+    <td>Praga-Południe</td>
+    <td>22,4</td>
+  </tr>
+  <tr>
+    <td>Rembertów</td>
+    <td>19,3</td>
+  </tr>
+  <tr>
+    <td>Wola</td>
+    <td>19,3</td>
+  </tr>
+  <tr>
+    <td>Śródmieście</td>
+    <td>15,6</td>
+  </tr>
+  <tr>
+    <td>Praga-Północ</td>
+    <td>11,3</td>
+  </tr>
+  <tr>
+    <td>Ochota</td>
+    <td>9,7</td>
+  </tr>
+  <tr>
+    <td>Ursus</td>
+    <td>9,4</td>
+  </tr>
+  <tr>
+    <td>Żoliborz</td>
+    <td>8,5</td>
+  </tr>
+</table>
+
+![Warsaw-boundaries_districts_vistula](images/Warsaw-boundaries_districts_vistula.png)
+
