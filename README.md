@@ -133,3 +133,55 @@ Projekt prezentuje podstawowe informacje i wyniki analiz danych przestrzennych d
 
 ![Warsaw-boundaries_districts_vistula](images/Warsaw-boundaries_districts_vistula.png)
 
+Warszawa podzielona jest na część lewobrzeżną (zachodnią) i prawobrzeżną (wschodnią) przez rzekę Wisłę.
+
+<table>
+  <tr>
+    <th></th>
+    <th>Część lewobrzeżna</th>
+	<th>Część prawobrzeżna</th>
+  </tr>
+  <tr>
+    <td><b>Całkowita powierzchnia</b></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td> miasta</td>
+    <td>264,5 km<sup>2</sup></td>
+    <td>252,7 km<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td> parków</td>
+    <td>10,5 km<sup>2</sup></td>
+    <td>1,9 km<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td> łąk</td>
+    <td>0,9 km<sup>2</sup></td>
+    <td>2,6 km<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td> lasów</td>
+    <td>22,6 km<sup>2</sup></td>
+    <td>53,1 km<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td> zadrzewień</td>
+    <td>15,1 km<sup>2</sup></td>
+    <td>18,8 km<sup>2</sup></td>
+  </tr>
+  <tr>
+    <td><b>Łączna długość</b></td>
+    <td></td>
+	<td></td>
+  </tr>
+  <tr>
+    <td> ścieżek rowerowych</td>
+    <td>502,8 km</td>
+    <td>258,4 km</td>
+  </tr>
+</table>
+
+![Warsaw-boundaries_east_west_vistula](images/Warsaw-boundaries_east_west_vistula.png)
+
