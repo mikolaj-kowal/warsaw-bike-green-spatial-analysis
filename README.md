@@ -185,3 +185,107 @@ Warszawa podzielona jest na część lewobrzeżną (zachodnią) i prawobrzeżną
 
 ![Warsaw-boundaries_east_west_vistula](images/Warsaw-boundaries_east_west_vistula.png)
 
+## Ścieżki rowerowe
+
+<table>
+  <tr>
+    <th>Dzielnica</th>
+    <th>Długość ścieżek rowerowych</th>
+    <th>Gęstość ścieżek rowerowych</th>
+  </tr>
+  <tr>
+    <td>Ursynów</td>
+    <td>90,0 km</td>
+    <td>2,1 km/km²</td>
+  </tr>
+  <tr>
+    <td>Mokotów</td>
+    <td>85,3 km</td>
+    <td>2,4 km/km²</td>
+  </tr>
+  <tr>
+    <td>Białołęka</td>
+    <td>55,7 km</td>
+    <td>0,8 km/km²</td>
+  </tr>
+  <tr>
+    <td>Bielany</td>
+    <td>53,5 km</td>
+    <td>1,7 km/km²</td>
+  </tr>
+  <tr>
+    <td>Praga-Południe</td>
+    <td>52,6 km</td>
+    <td>2,4 km/km²</td>
+  </tr>
+  <tr>
+    <td>Śródmieście</td>
+    <td>48,5 km</td>
+    <td>3,1 km/km²</td>
+  </tr>
+  <tr>
+    <td>Targówek</td>
+    <td>46,0 km</td>
+    <td>1,9 km/km²</td>
+  </tr>
+  <tr>
+    <td>Wilanów</td>
+    <td>45,6 km</td>
+    <td>1,2 km/km²</td>
+  </tr>
+  <tr>
+    <td>Wawer</td>
+    <td>43,6 km</td>
+    <td>0,5 km/km²</td>
+  </tr>
+  <tr>
+    <td>Wola</td>
+    <td>42,2 km</td>
+    <td>2,2 km/km²</td>
+  </tr>
+  <tr>
+    <td>Bemowo</td>
+    <td>36,8 km</td>
+    <td>1,5 km/km²</td>
+  </tr>
+  <tr>
+    <td>Praga-Północ</td>
+    <td>32,8 km</td>
+    <td>2,9 km/km²</td>
+  </tr>
+  <tr>
+    <td>Żoliborz</td>
+    <td>31,5 km</td>
+    <td>3,7 km/km²</td>
+  </tr>
+  <tr>
+    <td>Włochy</td>
+    <td>29,2 km</td>
+    <td>1,0 km/km²</td>
+  </tr>
+  <tr>
+    <td>Ochota</td>
+    <td>21,9 km</td>
+    <td>2,3 km/km²</td>
+  </tr>
+  <tr>
+    <td>Ursus</td>
+    <td>18,4 km</td>
+    <td>2,0 km/km²</td>
+  </tr>
+  <tr>
+    <td>Rembertów</td>
+    <td>15,6 km</td>
+    <td>0,8 km/km²</td>
+  </tr>
+  <tr>
+    <td>Wesoła</td>
+    <td>12,1 km</td>
+    <td>0,5 km/km²</td>
+  </tr>
+</table>
+
+![Warsaw-districts_cycleways_length_vistula](images/Warsaw-districts_cycleways_length_vistula.png)
+
+![Warsaw-districts_cycleways_density_vistula](images/Warsaw-districts_cycleways_density_vistula.png)
+
