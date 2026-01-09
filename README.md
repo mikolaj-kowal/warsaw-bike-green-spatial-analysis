@@ -291,6 +291,7 @@ Warszawa podzielona jest na część lewobrzeżną (zachodnią) i prawobrzeżną
 
 ## Tereny zielone
 
+
 <table>
   <tr>
     <th>Dzielnica</th>
@@ -301,170 +302,170 @@ Warszawa podzielona jest na część lewobrzeżną (zachodnią) i prawobrzeżną
     <th>Naturalne zadrzewienia</th>
     <th>Sumaryczna powierzchnia terenów zielonych</th>
   </tr>
-
   <tr>
     <td>Wawer</td>
-    <td>79,710 km²</td>
-    <td>0,075 km²</td>
-    <td>1,133 km²</td>
-    <td>25,001 km²</td>
-    <td>5,107 km²</td>
-    <td>31,316 km²</td>
+    <td>79,71 km²</td>
+    <td>0,08 km²</td>
+    <td>1,13 km²</td>
+    <td>25,00 km²</td>
+    <td>5,11 km²</td>
+    <td>31,32 km²</td>
   </tr>
   <tr>
     <td>Białołęka</td>
-    <td>73,003 km²</td>
-    <td>0,300 km²</td>
-    <td>0,730 km²</td>
-    <td>9,621 km²</td>
-    <td>5,239 km²</td>
-    <td>15,889 km²</td>
+    <td>73,00 km²</td>
+    <td>0,30 km²</td>
+    <td>0,73 km²</td>
+    <td>9,62 km²</td>
+    <td>5,24 km²</td>
+    <td>15,89 km²</td>
   </tr>
   <tr>
     <td>Ursynów</td>
-    <td>43,788 km²</td>
-    <td>0,794 km²</td>
-    <td>0,181 km²</td>
-    <td>9,896 km²</td>
-    <td>1,867 km²</td>
-    <td>12,739 km²</td>
+    <td>43,79 km²</td>
+    <td>0,79 km²</td>
+    <td>0,18 km²</td>
+    <td>9,90 km²</td>
+    <td>1,87 km²</td>
+    <td>12,74 km²</td>
   </tr>
   <tr>
     <td>Wilanów</td>
-    <td>36,727 km²</td>
-    <td>1,459 km²</td>
-    <td>0,270 km²</td>
-    <td>0,950 km²</td>
-    <td>4,071 km²</td>
-    <td>6,749 km²</td>
+    <td>36,73 km²</td>
+    <td>1,46 km²</td>
+    <td>0,27 km²</td>
+    <td>0,95 km²</td>
+    <td>4,07 km²</td>
+    <td>6,75 km²</td>
   </tr>
   <tr>
     <td>Mokotów</td>
-    <td>35,418 km²</td>
-    <td>1,748 km²</td>
-    <td>0,122 km²</td>
-    <td>0,151 km²</td>
-    <td>2,286 km²</td>
-    <td>4,307 km²</td>
+    <td>35,42 km²</td>
+    <td>1,75 km²</td>
+    <td>0,12 km²</td>
+    <td>0,15 km²</td>
+    <td>2,29 km²</td>
+    <td>4,31 km²</td>
   </tr>
   <tr>
     <td>Bielany</td>
-    <td>32,337 km²</td>
-    <td>0,367 km²</td>
-    <td>0,129 km²</td>
-    <td>7,578 km²</td>
-    <td>2,540 km²</td>
-    <td>10,615 km²</td>
+    <td>32,34 km²</td>
+    <td>0,37 km²</td>
+    <td>0,13 km²</td>
+    <td>7,58 km²</td>
+    <td>2,54 km²</td>
+    <td>10,62 km²</td>
   </tr>
   <tr>
     <td>Włochy</td>
-    <td>28,630 km²</td>
-    <td>0,241 km²</td>
-    <td>0,056 km²</td>
-    <td>0,421 km²</td>
-    <td>0,564 km²</td>
-    <td>1,282 km²</td>
+    <td>28,63 km²</td>
+    <td>0,24 km²</td>
+    <td>0,06 km²</td>
+    <td>0,42 km²</td>
+    <td>0,56 km²</td>
+    <td>1,28 km²</td>
   </tr>
   <tr>
     <td>Bemowo</td>
-    <td>24,947 km²</td>
-    <td>0,439 km²</td>
-    <td>0,100 km²</td>
-    <td>2,773 km²</td>
-    <td>1,525 km²</td>
-    <td>4,837 km²</td>
+    <td>24,95 km²</td>
+    <td>0,44 km²</td>
+    <td>0,10 km²</td>
+    <td>2,77 km²</td>
+    <td>1,53 km²</td>
+    <td>4,84 km²</td>
   </tr>
   <tr>
     <td>Targówek</td>
-    <td>24,330 km²</td>
-    <td>0,339 km²</td>
-    <td>0,354 km²</td>
-    <td>2,034 km²</td>
-    <td>0,865 km²</td>
-    <td>3,592 km²</td>
+    <td>24,33 km²</td>
+    <td>0,34 km²</td>
+    <td>0,35 km²</td>
+    <td>2,03 km²</td>
+    <td>0,87 km²</td>
+    <td>3,59 km²</td>
   </tr>
   <tr>
     <td>Wesoła</td>
-    <td>22,942 km²</td>
-    <td>0,008 km²</td>
-    <td>0,015 km²</td>
-    <td>10,698 km²</td>
-    <td>2,390 km²</td>
-    <td>13,111 km²</td>
+    <td>22,94 km²</td>
+    <td>0,01 km²</td>
+    <td>0,02 km²</td>
+    <td>10,70 km²</td>
+    <td>2,39 km²</td>
+    <td>13,11 km²</td>
   </tr>
   <tr>
     <td>Praga-Południe</td>
-    <td>22,384 km²</td>
-    <td>0,908 km²</td>
-    <td>0,024 km²</td>
-    <td>0,123 km²</td>
-    <td>1,762 km²</td>
-    <td>2,817 km²</td>
+    <td>22,38 km²</td>
+    <td>0,91 km²</td>
+    <td>0,02 km²</td>
+    <td>0,12 km²</td>
+    <td>1,76 km²</td>
+    <td>2,82 km²</td>
   </tr>
   <tr>
     <td>Rembertów</td>
-    <td>19,297 km²</td>
-    <td>0,036 km²</td>
-    <td>0,000 km²</td>
-    <td>5,497 km²</td>
-    <td>2,726 km²</td>
-    <td>8,259 km²</td>
+    <td>19,30 km²</td>
+    <td>0,04 km²</td>
+    <td>0,00 km²</td>
+    <td>5,50 km²</td>
+    <td>2,73 km²</td>
+    <td>8,26 km²</td>
   </tr>
   <tr>
     <td>Wola</td>
-    <td>19,256 km²</td>
-    <td>0,873 km²</td>
-    <td>0,000 km²</td>
-    <td>0,590 km²</td>
-    <td>0,770 km²</td>
-    <td>2,234 km²</td>
+    <td>19,26 km²</td>
+    <td>0,87 km²</td>
+    <td>0,00 km²</td>
+    <td>0,59 km²</td>
+    <td>0,77 km²</td>
+    <td>2,23 km²</td>
   </tr>
   <tr>
     <td>Śródmieście</td>
-    <td>15,573 km²</td>
-    <td>2,607 km²</td>
-    <td>0,003 km²</td>
-    <td>0,091 km²</td>
-    <td>0,255 km²</td>
-    <td>2,957 km²</td>
+    <td>15,57 km²</td>
+    <td>2,61 km²</td>
+    <td>0,00 km²</td>
+    <td>0,09 km²</td>
+    <td>0,26 km²</td>
+    <td>2,96 km²</td>
   </tr>
   <tr>
     <td>Praga-Północ</td>
-    <td>11,310 km²</td>
-    <td>0,228 km²</td>
-    <td>0,355 km²</td>
-    <td>0,118 km²</td>
-    <td>0,705 km²</td>
-    <td>1,406 km²</td>
+    <td>11,31 km²</td>
+    <td>0,23 km²</td>
+    <td>0,36 km²</td>
+    <td>0,12 km²</td>
+    <td>0,71 km²</td>
+    <td>1,41 km²</td>
   </tr>
   <tr>
     <td>Ochota</td>
-    <td>9,722 km²</td>
-    <td>1,167 km²</td>
-    <td>0,004 km²</td>
-    <td>0,113 km²</td>
-    <td>0,352 km²</td>
-    <td>1,635 km²</td>
+    <td>9,72 km²</td>
+    <td>1,17 km²</td>
+    <td>0,00 km²</td>
+    <td>0,11 km²</td>
+    <td>0,35 km²</td>
+    <td>1,64 km²</td>
   </tr>
   <tr>
     <td>Ursus</td>
-    <td>9,354 km²</td>
-    <td>0,216 km²</td>
-    <td>0,000 km²</td>
-    <td>0,005 km²</td>
-    <td>0,120 km²</td>
-    <td>0,340 km²</td>
+    <td>9,35 km²</td>
+    <td>0,22 km²</td>
+    <td>0,00 km²</td>
+    <td>0,01 km²</td>
+    <td>0,12 km²</td>
+    <td>0,34 km²</td>
   </tr>
   <tr>
     <td>Żoliborz</td>
-    <td>8,471 km²</td>
-    <td>0,620 km²</td>
-    <td>0,000 km²</td>
-    <td>0,019 km²</td>
-    <td>0,738 km²</td>
-    <td>1,377 km²</td>
+    <td>8,47 km²</td>
+    <td>0,62 km²</td>
+    <td>0,00 km²</td>
+    <td>0,02 km²</td>
+    <td>0,74 km²</td>
+    <td>1,38 km²</td>
   </tr>
 </table>
+
 
 
 <table>
@@ -474,7 +475,7 @@ Warszawa podzielona jest na część lewobrzeżną (zachodnią) i prawobrzeżną
     <th>Łąki</th>
     <th>Lasy</th>
     <th>Naturalne zadrzewienia</th>
-    <th>Sumarycznie tereny zielone</th>
+    <th>Sumaryczny % powierzchni terenów zielonych</th>
   </tr>
 
   <tr>
