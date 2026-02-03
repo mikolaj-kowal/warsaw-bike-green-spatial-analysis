@@ -9,6 +9,96 @@ Projekt prezentuje podstawowe informacje oraz wyniki analiz danych przestrzennyc
 
 Na potrzeby analizy uwzględniłem wyłącznie liniowe elementy infrastruktury rowerowej, obejmujące drogi i ciągi komunikacyjne dostępne dla ruchu rowerowego, bez uwzględnienia obiektów punktowych, takich jak parkingi czy stojaki rowerowe.
 
+<details>
+<summary><strong> Informacje o projekcie</strong></summary>
+
+#### Wykorzystane narzędzia
+- QGIS (analiza i wizualizacja danych przestrzennych)
+- [Geoportal](https://www.geoportal.gov.pl/)
+- OpenStreetMap
+
+#### Źródła danych
+
+- OpenStreetMap
+  - trasy rowerowe (QGIS - QuickOSM)
+    - zapytanie
+
+    ```
+    [out:xml] [timeout:25];
+    {{geocodeArea:Warsaw}} -> .area_0;
+    (
+        way["highway"="cycleway"](area.area_0);
+        way["bicycle"="designated"](area.area_0);
+    );
+    (._;>;);
+    out body;
+    ```
+  - parki (QGIS - QuickOSM)
+    - zapytanie
+
+    ```
+    [out:xml] [timeout:25];
+    {{geocodeArea:Warsaw}} -> .area_0;
+    (
+        way["leisure"="park"](area.area_0);
+        relation["leisure"="park"](area.area_0);
+    );
+    (._;>;);
+    out body;
+    ```
+  - łąki (QGIS - QuickOSM)
+    - zapytanie
+
+    ```
+    [out:xml] [timeout:25];
+    {{geocodeArea:Warsaw}} -> .area_0;
+    (
+        way["landuse"="meadow"](area.area_0);
+        relation["landuse"="meadow"](area.area_0);
+    );
+    (._;>;);
+    out body;
+    ```
+  - lasy (QGIS - QuickOSM)
+    - zapytanie
+
+    ```
+    [out:xml] [timeout:25];
+    {{geocodeArea:Warsaw}} -> .area_0;
+    (
+        way["landuse"="forest"](area.area_0);
+        relation["landuse"="forest"](area.area_0);
+    );
+    (._;>;);
+    out body;
+    ```
+  - zadrzewienia (QGIS - QuickOSM)
+    - zapytanie
+
+    ```
+    [out:xml] [timeout:25];
+    {{geocodeArea:Warsaw}} -> .area_0;
+    (
+        way["natural"="wood"](area.area_0);
+        relation["natural"="wood"](area.area_0);
+    );
+    (._;>;);
+    out body;
+    ```
+  - OSM Standard (WMS) (QuickMapServices) 
+- Państwowy Rejestr Granic (PRG)
+  - Granice administracyjne dzielnic Warszawy
+    - usługa WFS (https://mapy.geoportal.gov.pl/wss/service/PZGIK/PRG/WFS/AdministrativeBoundaries)
+
+#### Metodyka analizy
+Przeprowadzona analiza obejmowała
+- przygotowanie i ujednolicenie układów współrzędnych danych (do EPSG:2180)
+- selekcję tras dostępnych dla ruchu rowerowego
+- obliczenie długości oraz gęstości infrastruktury rowerowej w podziale na dzielnice
+- analizę powierzchni i udziału procentowego poszczególnych kategorii terenów zielonych
+- wizualizację wyników w postaci map tematycznych oraz zestawień tabelarycznych
+</details>
+
 ## Warszawa
 Poniższa mapa (Rysunek 1) przedstawia obszar Warszawy wraz z granicami administracyjnymi miasta oraz przebiegiem rzeki Wisły przez jego obszar.
 
@@ -702,7 +792,7 @@ W kolejnej tabeli (Tabela 6) przedstawiłem procentowy udział poszczególnych k
 
 Analiza przestrzenna terenów zielonych wskazuje na odwrotną zależność w porównaniu do infrastruktury rowerowej. Najwyższy udział terenów zielonych występuje w dzielnicach o mniejszej intensywności zabudowy, takich jak Wesoła, Rembertów czy Wawer, gdzie dominującą formą zieleni są lasy oraz naturalne zadrzewienia. Dzielnice centralne i silnie zurbanizowane cechują się znacznie mniejszym udziałem terenów zielonych, przy czym istotną rolę odgrywają tam parki miejskie jako podstawowa forma zieleni urządzonej.
 
-## Wnioski i interpretacja wyników
+## Końcowe wnioski
 
 Przeprowadzona analiza danych przestrzennych pozwala na wskazanie istotnych zróżnicowań w rozmieszczeniu infrastruktury rowerowej oraz terenów zielonych na obszarze Warszawy.
 
